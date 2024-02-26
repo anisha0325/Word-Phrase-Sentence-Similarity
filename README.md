@@ -16,4 +16,6 @@
 * Use of transformers to do the above classification tasks.
 
 
-Note: The details about the datasets, methodologies and tools used can be found documented in the python notebook.
+Note: 
+1. The details about the datasets, methodologies and tools used can be found documented in the python notebook.
+2. The models trained and loaded in the task can be found in the repository.
