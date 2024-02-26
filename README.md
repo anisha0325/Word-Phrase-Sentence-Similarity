@@ -14,3 +14,6 @@
 * Classification task based on similar-dissimilar sentences.
 
 * Use of transformers to do the above classification tasks.
+
+
+Note: The details about the datasets, methodologies and tools used can be found documented in the python notebook.
